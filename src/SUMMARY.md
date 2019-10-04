@@ -72,7 +72,7 @@
     - [Funcoes de Alta Ordem](fn/hof.md)
     - [Funcoes divergentes](fn/diverging.md)
 
-- [Modulos](mod.md)
+- [Módulos](mod.md)
     - [Visibilidade](mod/visibility.md)
     - [Visibilidade de estruturas](mod/struct_visibility.md)
     - [A declaracao `use`](mod/use.md)
@@ -200,7 +200,7 @@
     - [Testes de integracao](testing/integration_testing.md)
     - [Dev-dependencies](testing/dev_dependencies.md)
 
-- [Operacoes nao-seguras](unsafe.md)
+- [Operacoes inseguras](unsafe.md)
 
 - [Compatibilidade](compatibility.md)
     - [Identificadores Raw](compatibility/raw_identifiers.md)
