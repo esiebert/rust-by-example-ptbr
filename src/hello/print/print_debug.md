@@ -1,6 +1,6 @@
 # Debug
 
-Todos os tipos que desejam utilizar os `tratis` de formatacao `std::fmt`
+Todos os tipos que desejam utilizar os `traits` de formatacao `std::fmt`,
 exigem uma implementacao para que sejam printaveis. Implementacoes automáticas
 sao apenas disponíveis para tipos da biblioteca padrao `std`. Todos outros
 *precisam* ser implementados manualmente de alguma forma.
