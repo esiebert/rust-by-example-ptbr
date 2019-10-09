@@ -136,6 +136,8 @@
     - [Drop](trait/drop.md)
     - [Iteradores](trait/iter.md)
     - [Clone](trait/clone.md)
+    - [Supertraits](trait/supertraits.md)
+    - [Desambiguacao de sobreposicao de traits](trait/disambiguating.md)
 
 - [macro_rules!](macros.md)
     - [Sintaxe](macros/syntax.md)
